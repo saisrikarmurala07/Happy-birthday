@@ -47,16 +47,16 @@ export const photoScreenSubHeading = "Beautiful moments with Madam Jii";
 // ✅ Use public folder paths like "/images/filename.jpeg"
 
 export const photos = [
-    { id: 1, src: ""C:\Users\saisr\OneDrive\Desktop\1.jpeg"" },
-    { id: 2, src: ""C:\Users\saisr\OneDrive\Desktop\2.jpeg"" },
-    { id: 3, src: ""C:\Users\saisr\OneDrive\Desktop\3.jpeg"" },
-    { id: 4, src: ""C:\Users\saisr\OneDrive\Desktop\4.jpg"" },
-    { id: 5, src: ""C:\Users\saisr\OneDrive\Desktop\5.jpg"" },
-    { id: 6, src: ""C:\Users\saisr\OneDrive\Desktop\10.jpg"" },
-    { id: 7, src: ""C:\Users\saisr\OneDrive\Desktop\6.jpeg"" },
-    { id: 8, src: ""C:\Users\saisr\OneDrive\Desktop\7.jpeg"" },
-    { id: 9, src: ""C:\Users\saisr\OneDrive\Desktop\8.jpeg"" },
-    { id: 10, src: ""C:\Users\saisr\OneDrive\Desktop\9.jpeg"" }, // fixed quotes issue
+    { id: 1, src: ""/images/1.jpeg"" },
+    { id: 2, src: ""/images/2.jpeg"" },
+    { id: 3, src: ""/images/3.jpeg"" },
+    { id: 4, src: ""/images/\4.jpg"" },
+    { id: 5, src: ""/images/5.jpg"" },
+    { id: 6, src: ""/images/10.jpg"" },
+    { id: 7, src: ""/images/6.jpeg"" },
+    { id: 8, src: ""/images/7.jpeg"" },
+    { id: 9, src: ""/images/8.jpeg"" },
+    { id: 10, src: ""/images/9.jpeg"" }, // fixed quotes issue
 ];
 
 
