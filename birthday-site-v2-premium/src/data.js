@@ -47,16 +47,16 @@ export const photoScreenSubHeading = "Beautiful moments with Madam Jii";
 // ✅ Use public folder paths like "/images/filename.jpeg"
 
 export const photos = [
-    { id: 1, src: ""/Images/1.jpeg"" },
-    { id: 2, src: ""/Images/2.jpeg"" },
-    { id: 3, src: ""/Images/3.jpeg"" },
-    { id: 4, src: ""/Images/4.jpg"" },
-    { id: 5, src: ""/Images/5.jpg"" },
-    { id: 6, src: ""/Images/10.jpg"" },
-    { id: 7, src: ""/Images/6.jpeg"" },
-    { id: 8, src: ""/Images/7.jpeg"" },
-    { id: 9, src: ""/Images/8.jpeg"" },
-    { id: 10, src: ""/Images/9.jpeg"" }, // fixed quotes issue
+    { id: 1, src: ""/image/1.jpeg"" },
+    { id: 2, src: ""/image/2.jpeg"" },
+    { id: 3, src: ""/image/3.jpeg"" },
+    { id: 4, src: ""/image/4.jpg"" },
+    { id: 5, src: ""/image/5.jpg"" },
+    { id: 6, src: ""/image/10.jpg"" },
+    { id: 7, src: ""/image/6.jpeg"" },
+    { id: 8, src: ""/image/7.jpeg"" },
+    { id: 9, src: ""/image/8.jpeg"" },
+    { id: 10, src: ""/image/9.jpeg"" }, // fixed quotes issue
 ];
 
 
