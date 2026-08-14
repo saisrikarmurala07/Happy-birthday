@@ -2,7 +2,7 @@
 export const BIRTHDAY_DATE = "2025-07-18T00:00:00";
 
 // Add recipient's name here.
-export const NAME = "Madam Jii";
+export const NAME = "Madam Jiii";
 
 
 // Special Messages Screen
